@@ -1,0 +1,46 @@
+.container{
+    width: 1100px;
+}
+.info p{
+    line-height: 9px;
+}
+.topmenu{
+    padding: 10px 0px;
+}
+.mainmenu{background-color: #0071ef;
+
+}
+.mainmenu a{color: white;
+    font-size: 17px;
+    font-weight: 600;
+
+}
+.mainmenu a:hover{
+    color: white;
+}
+.search{
+    width: 300px;
+    border-radius: 500px;
+    background-color: #338df2;
+   
+   
+}
+.search::placeholder{
+    color: white;
+}
+.Banner{
+    background: url(./images/banner.jpg);
+    padding: 80px 0px;
+}
+.Banner h2{
+    font-size: 36px;
+    font-weight: 500;
+}
+.Banner h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 70px;
+}
+.Banner span{
+    color: #0071ef;
+}
