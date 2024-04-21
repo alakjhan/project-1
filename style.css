@@ -44,3 +44,36 @@
 .Banner span{
     color: #0071ef;
 }
+.offerservice h2{font-size: 35px;
+    font-weight: 250;
+    
+}
+.offerservice h1{font-size: 40px;
+    font-weight: 600;
+
+}
+.servicesection{
+    background-color:#f5f9ff ;
+    padding: 40px 0px;
+}
+.service{
+    background-color: #fff;
+    padding: 25px;
+    transition: .5s;
+    transform: translateY(0);
+    
+    
+}
+.service:hover{
+    box-shadow: -1.395px 19.951px 5px rgba(136, 136, 136, 0.1);
+     transform: translateY(-5px);
+}
+.service h4{
+    font-size: 20px;
+   padding-top: 15px;
+}
+.service a{
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
